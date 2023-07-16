@@ -6,6 +6,10 @@ mods.jei.JEI.removeAndHide(<chickenchunks:chunk_loader>);
 
 mods.jei.JEI.removeAndHide(<opencomputers:upgrade:4>);
 
+//Remove chunkloader Anchor Upgrade (Mekanism)
+
+mods.jei.JEI.removeAndHide(<mekanism:anchorupgrade>);
+
 //Remove Black Hole Units
 
 mods.jei.JEI.removeAndHide(<industrialforegoing:black_hole_unit>);
