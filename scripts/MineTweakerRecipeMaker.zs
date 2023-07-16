@@ -27,6 +27,7 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<minecraft:soul_sand> * 8, [[<ore:sand>, <ore:sand>, <ore:sand>], [<ore:sand>, <minecraft:ghast_tear>, <ore:sand>], [<ore:sand>, <ore:sand>, <ore:sand>]]);
 recipes.addShaped(<enancheddifficulty:turbineblade>, [[<mekanism:ingot:4>], [<ore:ingotSteel>], [<ore:ingotSteel>]]);
 recipes.addShaped(<enancheddifficulty:turbinedisk>, [[<enancheddifficulty:turbineblade>, null, <enancheddifficulty:turbineblade>], [<enancheddifficulty:turbineblade>, <mekanism:basicblock:5>, <enancheddifficulty:turbineblade>], [<enancheddifficulty:turbineblade>, <enancheddifficulty:turbineblade>, <enancheddifficulty:turbineblade>]]);
 recipes.addShaped(<enancheddifficulty:turbine>, [[<enancheddifficulty:turbinedisk>, <enancheddifficulty:turbinedisk>, <enancheddifficulty:turbinedisk>]]);
