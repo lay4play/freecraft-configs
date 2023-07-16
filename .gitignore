@@ -1,4 +1,4 @@
-*
+/test
 !scripts/
 !config/
 /config/Discord-Integration.toml
