@@ -31,3 +31,9 @@ mods.jei.JEI.removeAndHide(<nuclearcraft:water_source_dense>);
 mods.jei.JEI.removeAndHide(<mekanism:machineblock3:0>);
 mods.jei.JEI.removeAndHide(<mekanism:basicblock:7>);
 
+//Remove nuclearcraft solar panels
+
+mods.jei.JEI.removeAndHide(<nuclearcraft:solar_panel_basic>);
+mods.jei.JEI.removeAndHide(<nuclearcraft:solar_panel_advanced>);
+mods.jei.JEI.removeAndHide(<nuclearcraft:solar_panel_du>);
+mods.jei.JEI.removeAndHide(<nuclearcraft:solar_panel_elite>);
