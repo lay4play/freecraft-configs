@@ -1,5 +1,5 @@
 *
-!*/scripts/*
-!*/config/*
+!scripts/
+!config/
 /config/Discord-Integration.toml
 !.gitignore
