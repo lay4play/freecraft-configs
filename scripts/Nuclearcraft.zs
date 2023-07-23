@@ -4,3 +4,5 @@ mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:gold>*1000, <liquid:redsto
 mods.nuclearcraft.crystallizer.addRecipe([<liquid:glowstone>*100, <minecraft:glowstone_dust>, 0.1, 10.0]);
 // Blaze Rod recipe
 mods.nuclearcraft.infuser.addRecipe([<immersiveposts:metal_rods>, <liquid:glowstone>*500, <minecraft:blaze_rod>, 1.5, 10.0]);
+//Canola Mix recipe
+mods.nuclearcraft.chemical_reactor.addRecipe([<liquid:canola_oil>*500, <liquid:ethanol>*500,<liquid:canola_methanol_mix>*500,null, 2, 14]);
